@@ -1,6 +1,6 @@
-revisionVersion: "1.0"
+revisionversion: "1.0"
 
-interviewRevisionProperties:
+interviewrevisionproperties:
     revisionDetails:
         JAVA:
             coreJava: "read all java questions, Java 8"
