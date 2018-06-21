@@ -1,0 +1,20 @@
+revisionVersion: "1.0"
+
+interviewRevisionProperties:
+    revisionDetails:
+        JAVA:
+            coreJava: "read all java questions, Java 8"
+            spring: "Spring framework, spring security"
+            springBoot: "spring boot"
+            springCloud: "spring cloud with Netflix components"
+            microservices: "read microservices architecture"
+            ORM: "read about hibernate"
+            paysafePrject: "read about project architecture"
+            sportingbetProject: "read and prepare some writeup"
+            tests: "read testing strategies, Junits, Mockito, TDD, BDD"
+        QA:
+            testing: "read about testing strategy at Paysafe"
+            microservices: "testing"
+            mobileApps: "testing"
+        WEB:
+            angularJS: "read about it"
